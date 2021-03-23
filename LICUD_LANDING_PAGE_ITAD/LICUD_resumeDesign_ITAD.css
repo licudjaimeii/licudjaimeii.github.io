@@ -1,0 +1,28 @@
+body{
+	background-color: white;
+}
+
+hr{
+	background-color: #092c48;
+	height:5px;
+	border-radius: 5px;
+	border-width:0px;
+}
+
+h2,h3,p,ul{
+	color:black;
+}
+
+h2{
+	font-family: 'Playfair Display', serif;
+}
+
+ul,p{
+	font-family: 'Noto Sans', sans-serif;
+}
+
+div.information{
+	font-family: 'Playfair Display', serif;
+	line-height: 3px;
+}
+
